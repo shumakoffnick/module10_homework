@@ -1,0 +1,71 @@
+.btn{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    
+}
+.first__img{
+    position: absolute;
+    display: block;
+}
+.second__img{
+    position: absolute;
+    display: none;
+}
+
+.first__svg{
+    width: 50px;
+    height: 50px;
+ 
+}
+.second__svg{
+    width: 50px;
+    height: 50px;
+}
+.svg__class{
+    
+    width: 80px;
+    height: 80px;
+    margin-top: 13%;
+    margin-left: 37%;
+}
+.first__img__active{
+    position: absolute;
+    display: none;
+}
+.second__img__active{
+    position: absolute;
+    display: block;
+}
+.div__inp{
+    margin-top: 10px;
+    padding-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+}
+.inp__btn{
+    margin-top: 20px;
+}
+
+.pep{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.div__text{
+    width: 195px;
+    height: 295px;
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+.inp{
+    margin-top: 10px;
+}
+.ans{
+    float: right;
+}
+.txt{
+    margin-top: 30px;
+}
